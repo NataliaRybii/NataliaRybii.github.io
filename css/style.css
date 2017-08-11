@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+html {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+/*Logo animation*/
+.logo-wrap{
+	position: relative;
+}
+
+#u-logo{
+	width: 110px;
+    height: 140px;
+    margin-left: 130px;
+    margin-top: 25px;
+    position: absolute;
+}
+
+#k-logo{
+	position: absolute;
+	margin-top: 73px;
+    margin-left: 220px;
+}
+
+#year-logo{
+	position: absolute;
+	margin-top: 22px;
+    margin-left: 87px;
+}
